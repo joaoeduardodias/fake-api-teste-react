@@ -1,0 +1,13 @@
+{
+  "name": "backend-teste-react-fake-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "João Dias",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
